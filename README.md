@@ -74,8 +74,7 @@ The options are
 	column n+1           ->           column 2n
 	... 
 	column n*(n-1)       ->           column n*n 
-     ```
-     .
+     ``` .
 	
  4. A program ```mktree``` is provided to demonstrate how to read the voltage file and store them 
     in a ROOT file.
@@ -101,8 +100,9 @@ Any problems or permission request for the program should be address to ```jiaxi
 The program is provided for the completeness of the foresaid and future publications. 
 Though every effort has been made to assure the program behaves as prescribed, 
 mistakes or "bugs" may persist. It is the responsibility of users to ensure the 
-"correctness" of the program.
+"correctness" or "fitness" of the program.
 
+--------
 This program is free software: you can redistribute it and/or modify it under 
 the terms of the GNU General Public License as published by the Free Software 
 Foundation; version 3 of the License.
