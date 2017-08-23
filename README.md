@@ -74,7 +74,7 @@ The options are
 	column n+1           ->           column 2n
 	... 
 	column n*(n-1)       ->           column n*n 
-     ``` .
+     ```
 	
  4. A program ```mktree``` is provided to demonstrate how to read the voltage file and store them 
     in a ROOT file.
