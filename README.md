@@ -20,7 +20,7 @@ OpenMP parallellisation manually, see MSDN website for more information.
 See [Makefile](Makefile) for more information.
 ### Run
 
-A configuration is needed to run the program. The configuration file defines the
+A configuration file is needed to run the program. The configuration file defines the
 the architecture of the model. An example is provided in "para.cfg".  Use the 
 following command to run the program
 
