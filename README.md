@@ -37,7 +37,7 @@ The options are
 
 ### Analysis
   The output file is organised in the following format
- 1. The first 1024 bytes store header information (i.e., 0 to 1023 byte).
+ 1. The first 1024 bytes (i.e., 0 to 1023 byte) store header information.
     This section is organised as parameter name and value pairs. It may also contain 
 	comments started with ```//```.
 	
