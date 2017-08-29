@@ -94,6 +94,8 @@ The options are
        and "volt.root" is the root file to be created. The third argument is optional. If not given, the root file 
        would be the same as the input file with the extension changed to ".root".
        
+ 5. A matlab program ```lcm_load.m```, which can read the voltage data into Matlab, is also provided.
+ 
 --------
 Any problems or permission request for the program should be addressed to ```jiaxin_dot_du_at_outlook_dot_com``` or ```jiaxin_dot_du_at_uqconnect_dot_edu_dot_au``` (replace ```_dot_``` with ```.``` and ```_at_``` with ```@```).
 	
