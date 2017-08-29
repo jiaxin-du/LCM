@@ -67,7 +67,7 @@ The options are
 	The order of the neuron groups is the same as their order in the parameter "NEURONS", e.g., 
 	```NEURONS={neuron_A, neuron_B, ..., neuron_C};```.
 
-    The order of the column is organsied as
+    The order of the columns is assumed to be
     
     ```	
 	column 1             ->           column n
